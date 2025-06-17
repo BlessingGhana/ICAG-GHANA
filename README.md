@@ -29,7 +29,7 @@ Distinguish between fundamental and enhancing qualitative characteristics.		(MAY
 ***
 
 *SQL*
-
-```In addition, a three-year fixed rate GH¢2.4 million loan was borrowed on 1 January 2022 at 6.5%. 
+```
+In addition, a three-year fixed rate GH¢2.4 million loan was borrowed on 1 January 2022 at 6.5%. 
 A loan set-up fee (transaction costs) of GH¢24,000 was incurred. 
-This increased the effective interest rate on the loan to 6.88%```
+This increased the effective interest rate on the loan to 6.88%
