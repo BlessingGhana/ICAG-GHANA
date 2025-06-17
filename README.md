@@ -10,4 +10,5 @@
 * The estimated useful economic life of the machines were five years.
 
 *Required:*
+
 In accordance with IFRS 16: Leases, show the accounting treatment of the above transaction.
