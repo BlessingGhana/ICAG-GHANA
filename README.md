@@ -1,1 +1,1 @@
-# ICAG-GHANA
+# ICAG GHANA
