@@ -29,14 +29,15 @@ Distinguish between fundamental and enhancing qualitative characteristics.		(MAY
 ***
 
 *SQL*
-
-```In addition, a three-year fixed rate GH¢2.4 million loan was borrowed on 1 January 2022 at 6.5%.`
+```
+In addition, a three-year fixed rate GH¢2.4 million loan was borrowed on 1 January 2022 at 6.5%.
 A loan set-up fee (transaction costs) of GH¢24,000 was incurred.
-This increased the effective interest rate on the loan to 6.88%```
+This increased the effective interest rate on the loan to 6.88%
+```
 
 ***
 
-\\Fugu Ltd (Fugu) operates in the automobile industry.\\
+Fugu Ltd (Fugu) operates in the automobile industry.
 The following transaction relates to Fugu for the year-end 31 July 2023. 
 On August 1, 2022, Fugu entered into a ten-year lease, agreeing to pay GH¢3 million
 annually in arrears in exchange for the use of a building. 
